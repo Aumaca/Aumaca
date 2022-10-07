@@ -18,10 +18,9 @@
 </br>
 
 
-<p>📚 I started learning programming with Python just for curiosity, and some time after I returned the study for web development.</p>
+<p>📚 I started learning programming with Python just for curiosity around 2019, and some time after I returned the study for web development in 2022.</p>
 <p>🖥 I don't understand too much about hardware details, but I like building computers.</p>
-<p>📈 I love the stock market!</p>
-<p>₿ Bitcoin enthusiastic.</p>
+<p>📈 I love the stock market.</p>
 <p>📅 Planning to start a Systems Analysis and Development degree in 2023.</p>
 <p>🎬 I have a <a href="https://www.youtube.com/channel/UCToKuPYG70DXB4BpdN39p8Q" target="_blank">YouTube channel</a> of captions for musics. (And I haven't upload more videos in a while...)</p>
 <p>🚴 I like to ride around the town with my bike.</p>
