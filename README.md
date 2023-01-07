@@ -28,6 +28,6 @@
 <p>📈 I love the stock market.</p>
 <p>📅 Planning to start a Systems Analysis and Development degree in 2023.</p>
 <p>🎬 I have a <a href="https://www.youtube.com/channel/UCToKuPYG70DXB4BpdN39p8Q" target="_blank">YouTube channel</a> of captions for musics. (And I haven't upload more videos in a while...)</p>
-<p>⚰️ Dracula is by far my favorite book!</p>
+<p>⚰️ Dracula is by far my favorite book</p>
 
 <a href="https://www.linkedin.com/in/carlos-cardoso-b57072238/" target="_blank"><img alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
