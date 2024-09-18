@@ -1,5 +1,6 @@
 ## 🧑‍💻**About Me**
-💙 Hi there! I'm a 19-year-old Brazilian developer with a love for crafting innovative solutions through code.<br>
+💙 Hi there! I'm a 19-year-old Brazilian developer with a love for crafting innovative solutions through code.
+
 🌐 I'm excited to connect with like-minded individuals and explore the exciting world of technology.
 
 **Here's a bit more about me:**
