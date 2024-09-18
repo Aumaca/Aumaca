@@ -26,15 +26,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aumaca&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aumaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aumaca&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aumaca&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&quote=I%20must%20not%20fear.%20Fear%20is%20the%20mind-killer.%20I%20will%20face%20my%20fear.%20Where%20the%20fear%20has%20gone%20there%20will%20be%20nothing.%20Only%20I%20will%20remain.&author=Frank%20Herbert&theme=algolia&border=true)
 
