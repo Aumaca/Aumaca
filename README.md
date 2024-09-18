@@ -1,3 +1,18 @@
+## 🧑‍💻**About Me**
+💙 Hi there! I'm a 19-year-old Brazilian developer with a love for crafting innovative solutions through code.<br>
+🌐 I'm excited to connect with like-minded individuals and explore the exciting world of technology.
+
+**Here's a bit more about me:**
+
+🎉 **Driven to learn:** I'm always eager to acquire new skills and stay up-to-date with the latest trends in the tech industry 🔍
+
+🧠 **Problem-solver:** I enjoy tackling complex challenges and finding creative solutions 💡
+
+🤝 **Team player:** I believe that collaboration is key to success and enjoy working in diverse teams 👥
+
+
+🔗 **Let's connect!** Feel free to reach out if you have any questions or want to discuss projects.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-mariano-cardoso) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19912446) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@_aumaca) 
 
@@ -28,10 +43,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aumaca&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aumaca&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&quote=I%20must%20not%20fear.%20Fear%20is%20the%20mind-killer.%20I%20will%20face%20my%20fear.%20Where%20the%20fear%20has%20gone%20there%20will%20be%20nothing.%20Only%20I%20will%20remain.&author=Frank%20Herbert&theme=algolia&border=true)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=I%20must%20not%20fear.%20Fear%20is%20the%20mind-killer.%20I%20will%20face%20my%20fear.%20Where%20the%20fear%20has%20gone%20there%20will%20be%20nothing.%20Only%20I%20will%20remain.&author=Frank%20Herbert&theme=algolia&border=true)
 
 [![](https://visitcount.itsvg.in/api?id=Aumaca&icon=5&color=0)](https://visitcount.itsvg.in)
