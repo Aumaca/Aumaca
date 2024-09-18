@@ -46,6 +46,6 @@
 
 ---
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=I%20must%20not%20fear.%20Fear%20is%20the%20mind-killer.%20I%20will%20face%20my%20fear.%20Where%20the%20fear%20has%20gone%20there%20will%20be%20nothing.%20Only%20I%20will%20remain.&author=Frank%20Herbert&theme=algolia&border=true)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=I%20must%20not%20fear.%20Fear%20is%20the%20mind-killer.%20I%20will%20face%20my%20fear.%20Where%20the%20fear%20has%20gone%20there%20will%20be%20nothing.%20Only%20I%20will%20remain.&author=Frank%20Herbert&theme=algolia)
 
 [![](https://visitcount.itsvg.in/api?id=Aumaca&icon=5&color=0)](https://visitcount.itsvg.in)
