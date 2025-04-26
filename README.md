@@ -1,19 +1,3 @@
-## 🧑‍💻**About Me**
-💙 Hi there! I'm a 19-year-old Brazilian developer with a love for crafting innovative solutions through code.
-
-🌐 I'm excited to connect with like-minded individuals and explore the exciting world of technology.
-
-**Here's a bit more about me:**
-
-🎉 **Driven to learn:** I'm always eager to acquire new skills and stay up-to-date with the latest trends in the tech industry 🔍
-
-🧠 **Problem-solver:** I enjoy tackling complex challenges and finding creative solutions 💡
-
-🤝 **Team player:** I believe that collaboration is key to success and enjoy working in diverse teams 👥
-
-
-🔗 **Let's connect!** Feel free to reach out if you have any questions or want to discuss projects.
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-mariano-cardoso)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19912446)
