@@ -1,14 +1,23 @@
-## 🚀 My Portfolio
-**[👉 https://myportfolio-4j5.pages.dev/](https://myportfolio-4j5.pages.dev/)**
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-mariano-cardoso)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19912446)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@_aumaca)
-<a href="https://judge.beecrowd.com/en/profile/878874" target="_blank"><img src="https://user-images.githubusercontent.com/100028251/235229639-d1cbebc4-091d-4751-a573-3dc6855c9566.png" width="40" height="40" style="max-width:100%;" /></a>
+<a href="https://portfolio.carlos-aumaca-fec.workers.dev/"><img src="assets/banner.svg" alt="Carlos Aumaca. Developer. Web and mobile." width="100%"></a>
 
----
+<br>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=I%20must%20not%20fear.%20Fear%20is%20the%20mind-killer.%20I%20will%20face%20my%20fear.%20Where%20the%20fear%20has%20gone%20there%20will%20be%20nothing.%20Only%20I%20will%20remain.&author=Frank%20Herbert&theme=algolia)
+<a href="https://marium.app"><img src="assets/marium.svg" alt="Founder of marium" width="404"></a>
 
-[![](https://visitcount.itsvg.in/api?id=Aumaca&icon=5&color=0)](https://visitcount.itsvg.in)
+A quiet place for the things you love.
+
+<br>
+
+Working on-site in Germany &nbsp;·&nbsp; From Sorocaba, Brazil
+
+<br>
+
+<a href="https://portfolio.carlos-aumaca-fec.workers.dev/"><img src="assets/portfolio.svg" alt="View portfolio" height="48"></a>
+
+<a href="https://www.linkedin.com/in/carlos-mariano-cardoso/"><img src="assets/linkedin.svg" alt="LinkedIn" height="44"></a>
+&nbsp;
+<a href="https://www.youtube.com/@_aumaca"><img src="assets/youtube.svg" alt="YouTube" height="44"></a>
+
+</div>
